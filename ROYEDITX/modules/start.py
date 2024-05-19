@@ -8,8 +8,8 @@ START_BUTTON = [
         Button.url("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", "https://t.me/avishaxbot?startgroup=true")
     ],
     [
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/the_friendz"),
-        Button.url("ʀᴇᴘᴏ", "https://github.com/tinaarobot/XSPAM")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIEND_X_ZONE_999"),
+        Button.url("ʀᴇᴘᴏ", "https://github.com/KANHABOSSKING/XSPAM.git")
     ],
     [
         Button.inline("ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs", data="help_back")
